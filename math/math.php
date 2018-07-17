@@ -14,6 +14,5 @@
 			}
 			echo "I will have " . cashAmountAfter(40, 21) . " Dollars after I buy this (Is it worth it?)"
 		?>
-		<a href="./index.html" alt="Just a link back to the 'home' page">Back</a>
 	</body>
 </html>
