@@ -14,6 +14,7 @@
 				echo "My favorite Pokemon are " . $pokemon[0] . " , " . $pokemon[1] . " and " . $pokemon[2];
 				echo "<br>";
 			};
+		favPokemon();
 		?>
 			<h3>These are my favorite all time Wii games</h3>
 		<?php
@@ -26,6 +27,7 @@
 				echo "<br>";
 			}
 		};
+		favMario();
 		?>
 	</body>
 </html>
