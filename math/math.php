@@ -2,11 +2,11 @@
 <html>
 	<body>
 		<?php
-			function calcRectSqFt($width, $length){
+			function rectArea($width, $length){
 				$result = $width * $length;
 				return $result;
 			}
-			echo "23 x 3 = " . calcRectSqFt(23, 3) . "<br>";
+			echo "23 x 3 = " . rectArea(23, 3)."";
 
 			function cashAmountAfter($cash, $cost){
 				$result = $cash - $cost;

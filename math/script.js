@@ -4,8 +4,8 @@ function rectArea(width, height) {
 
 console.log(rectArea(20, 32));
 
-function subtract(cost, cash){
+function cashAmountAfter(cost, cash){
 	return cash - cost
 }
 
-console.log(subtract(30, 50));
+console.log("I will have " + cashAmountAfter(21, 40) + " Dollars after I buy this (Is it worth it?)");
