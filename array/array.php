@@ -4,7 +4,7 @@
 		<?php
 		/**
 		 * Created by PhpStorm.
-		 * User: Caleb M. Hackendorn
+		 * User: Caleb M. Heckendorn
 		 * Date: 7/16/2018
 		 * Time: 2:27 PM
 		 */
